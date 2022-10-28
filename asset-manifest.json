@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wrench_crm/static/css/main.f66382a3.css",
+    "main.js": "/wrench_crm/static/js/main.853a097d.js",
+    "static/js/787.62546faf.chunk.js": "/wrench_crm/static/js/787.62546faf.chunk.js",
+    "static/media/settings.svg": "/wrench_crm/static/media/settings.5f34416c13daeeb8ee88249b200d9df9.svg",
+    "static/media/vs_tables.svg": "/wrench_crm/static/media/vs_tables.402c784bea251e7c98642f1c7e2d4122.svg",
+    "static/media/finance.svg": "/wrench_crm/static/media/finance.2c816d683e839613161ea4c6673cd1bd.svg",
+    "static/media/exite.svg": "/wrench_crm/static/media/exite.e753b4570f4150d0049d7be2b422fe52.svg",
+    "static/media/search_black.svg": "/wrench_crm/static/media/search_black.d8347e497c563b76dd9bc26547780f54.svg",
+    "static/media/search_white.svg": "/wrench_crm/static/media/search_white.3f7818f3d64d579c54611ea178fbbc23.svg",
+    "static/media/ic_person.svg": "/wrench_crm/static/media/ic_person.b085495dfa72b87d3fec7ec7ff9ea549.svg",
+    "static/media/ic_main.svg": "/wrench_crm/static/media/ic_main.64ec2f263da2e80f21192bf4806923bb.svg",
+    "static/media/profile_settings.svg": "/wrench_crm/static/media/profile_settings.7d428781cda3acc22d73d083ef30c246.svg",
+    "static/media/map.svg": "/wrench_crm/static/media/map.7703ccf1efdc3a29d340baa5b5d8ae0f.svg",
+    "static/media/ic_logo.svg": "/wrench_crm/static/media/ic_logo.6498537d4b4e2aa5b8ed37fe9a38ac04.svg",
+    "index.html": "/wrench_crm/index.html",
+    "static/media/calendar.svg": "/wrench_crm/static/media/calendar.b438cff0dd507044c3994ce268576c9b.svg",
+    "static/media/widgets.svg": "/wrench_crm/static/media/widgets.c9299d23c7ec2b0c14b0320a9324fc92.svg",
+    "static/media/Polygon8.svg": "/wrench_crm/static/media/Polygon8.fe04bfe848e3ad61738b4d14a746797d.svg",
+    "main.f66382a3.css.map": "/wrench_crm/static/css/main.f66382a3.css.map",
+    "main.853a097d.js.map": "/wrench_crm/static/js/main.853a097d.js.map",
+    "787.62546faf.chunk.js.map": "/wrench_crm/static/js/787.62546faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66382a3.css",
+    "static/js/main.853a097d.js"
+  ]
+}
